@@ -6,12 +6,6 @@
 
 ---
 
-<br/>
-
-<a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
-<img src="https://img.shields.io/badge/Bangkok_🇹🇭-222745?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" />
-
 </div>
 
 ---
