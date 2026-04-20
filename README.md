@@ -16,16 +16,50 @@
 
 ---
 
+### 👨‍💻 &nbsp; `whoami.ts`
+
+```typescript
+const dominique = {
+  pronouns: "he" | "him",
+  role: "Full-stack & AI engineer",
+  tagline: "A product designer that can code.",
+  basedIn: "Bangkok 🇹🇭",
+
+  code: ["TypeScript", "Python", "JavaScript", "HTML", "CSS", "SQL"],
+
+  craft: ["React", "Next", "Astro", "Tailwind", "shadcn/ui", "Zod", "TanStack Query"],
+  motion: ["Framer Motion", "GSAP", "Three.js", "React Three Fiber", "WebGL"],
+  backend: ["Node", "Bun", "Deno", "Hono", "FastAPI", "Drizzle", "Postgres"],
+  ai: ["Mastra.ai", "Vercel AI SDK", "PydanticAI", "LangChain", "Langfuse", "OpenRouter"],
+  infra: ["Docker", "AWS", "Vercel", "Trigger.dev", "Qdrant", "Neon", "Supabase"],
+  protocols: ["MCP", "A2A"],
+
+  architecture: ["multi-agent", "event-driven", "tiered-memory", "design-systems"],
+
+  building: {
+    founder: "Voltai Group",
+    products: ["Bonjour Milo", "Tour Kit", "Vigil", "Dental Buddy"],
+    philosophy: "GOTCHA — Goals · Orchestration · Tools · Context · Hard prompts · Args",
+  },
+
+  currently: "Shipping Vigil v0.2 — an always-on git monitoring agent",
+  openTo: ["collaborations", "AI engineering roles", "interesting bugs"],
+} as const;
+```
+
+---
+
 ### 🟠 &nbsp; Selected work
 
+**[Bonjour Milo](https://bonjourmilo.com)** &nbsp;·&nbsp; AI-native CRM with a 10-agent outbound pipeline. Three-loop self-learning (micro/meso/macro), MCP over SSE, OpenRouter-routed.
 
 **[Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
 
 **[Vigil](https://github.com/{{GITHUB_HANDLE}}/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
 
-**[Dental Buddy](https://mydentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
+**[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
 
-
+**[ccplus](https://github.com/{{GITHUB_HANDLE}}/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
 
 <sub>More at &nbsp;→&nbsp; **[domidex.dev/work](https://www.domidex.dev/work)**</sub>
 
