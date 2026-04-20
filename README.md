@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/-Hello-FF8102?style=flat-square&labelColor=222745" /> &nbsp; **Hey there,**
+**Hey there,**
 
 I build products and ship open source at the seam between **interface** and **intelligence** — design-forward React on the front, autonomous agents on the back. I care about things that move, remember, and feel considered, and I write about what I learn along the way.
 
@@ -16,7 +16,7 @@ If something I've made was useful to you, the best ways to say thanks: drop a st
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=ts" height="22" align="center" /> &nbsp; `whoami.ts`
+## whoami.ts
 
 ```typescript
 const dominique = {
@@ -49,7 +49,7 @@ const dominique = {
 
 ---
 
-### <img src="https://img.shields.io/badge/-Work-FF8102?style=flat-square&labelColor=222745&logoColor=222745" /> &nbsp; Selected work
+## Selected work
 
 **[Bonjour Milo](https://bonjourmilo.com)** &nbsp;·&nbsp; AI-native CRM with a 10-agent outbound pipeline. Three-loop self-learning (micro/meso/macro), MCP over SSE, OpenRouter-routed.
 
@@ -65,7 +65,7 @@ const dominique = {
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=vscode" height="22" align="center" /> &nbsp; Toolbelt
+## Toolbelt
 
 **Craft**
 
