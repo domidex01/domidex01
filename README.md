@@ -122,7 +122,7 @@ const dominique = {
 
 ---
 
-### <img src="https://img.shields.io/badge/-Principles-FF8102?style=flat-square&labelColor=222745" /> &nbsp; How I work
+## How I work
 
 **Design first, then code.** &nbsp;·&nbsp; If it doesn't feel good in Figma it won't feel good shipped.
 **Types are documentation.** &nbsp;·&nbsp; Zod at the boundary, TypeScript everywhere else.
@@ -131,7 +131,7 @@ const dominique = {
 
 ---
 
-### <img src="https://img.shields.io/badge/-Reach-FF8102?style=flat-square&labelColor=222745" /> &nbsp; Reach
+## Reach
 
 <p>
   <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/Portfolio-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
