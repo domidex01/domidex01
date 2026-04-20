@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FF8102&width=680&lines=Hey%2C+I'm+Dominique.;Full-stack+%26+AI+engineer+based+in+Bangkok.;I+design+%E2%80%94+then+I+ship+it.;Currently+building+Tour+Kit+%26+Vigil." alt="Dominique Degottex — full-stack & AI engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FDE047&width=680&lines=Hey%2C+I'm+Dominique.;Full-stack+%26+AI+engineer+based+in+Bangkok.;I+design+%E2%80%94+then+I+ship+it.;Currently+building+Tour+Kit+%26+Vigil." alt="Dominique Degottex — full-stack & AI engineer" />
 
-<a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
-<a href="https://maps.app.goo.gl/"><img src="https://img.shields.io/badge/Bangkok-222745?style=for-the-badge&logo=googlemaps&logoColor=FF8102" /></a>
-<a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" /></a>
+<a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FDE047?style=for-the-badge&labelColor=050729&color=FDE047" /></a>
+<a href="https://maps.app.goo.gl/"><img src="https://img.shields.io/badge/Bangkok-050729?style=for-the-badge&logo=googlemaps&logoColor=FDE047" /></a>
+<a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Open_to_work-050729?style=for-the-badge&labelColor=050729" /></a>
 
 ---
 
@@ -69,56 +69,56 @@ const dominique = {
 
 **Craft**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-222745?style=flat-square&logo=typescript&logoColor=FF8102)
-![React](https://img.shields.io/badge/React-222745?style=flat-square&logo=react&logoColor=FF8102)
-![Next.js](https://img.shields.io/badge/Next.js-222745?style=flat-square&logo=nextdotjs&logoColor=FF8102)
-![Astro](https://img.shields.io/badge/Astro-222745?style=flat-square&logo=astro&logoColor=FF8102)
-![Tailwind](https://img.shields.io/badge/Tailwind-222745?style=flat-square&logo=tailwindcss&logoColor=FF8102)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-222745?style=flat-square&logo=shadcnui&logoColor=FF8102)
-![Zod](https://img.shields.io/badge/Zod-222745?style=flat-square&logo=zod&logoColor=FF8102)
-![Zustand](https://img.shields.io/badge/Zustand-222745?style=flat-square&logoColor=FF8102)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-222745?style=flat-square&logo=reactquery&logoColor=FF8102)
+![TypeScript](https://img.shields.io/badge/TypeScript-050729?style=flat-square&logo=typescript&logoColor=FDE047)
+![React](https://img.shields.io/badge/React-050729?style=flat-square&logo=react&logoColor=FDE047)
+![Next.js](https://img.shields.io/badge/Next.js-050729?style=flat-square&logo=nextdotjs&logoColor=FDE047)
+![Astro](https://img.shields.io/badge/Astro-050729?style=flat-square&logo=astro&logoColor=FDE047)
+![Tailwind](https://img.shields.io/badge/Tailwind-050729?style=flat-square&logo=tailwindcss&logoColor=FDE047)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-050729?style=flat-square&logo=shadcnui&logoColor=FDE047)
+![Zod](https://img.shields.io/badge/Zod-050729?style=flat-square&logo=zod&logoColor=FDE047)
+![Zustand](https://img.shields.io/badge/Zustand-050729?style=flat-square&logoColor=FDE047)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-050729?style=flat-square&logo=reactquery&logoColor=FDE047)
 
 **Motion**
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-222745?style=flat-square&logo=framer&logoColor=FF8102)
-![GSAP](https://img.shields.io/badge/GSAP-222745?style=flat-square&logo=greensock&logoColor=FF8102)
-![Three.js](https://img.shields.io/badge/Three.js-222745?style=flat-square&logo=threedotjs&logoColor=FF8102)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-222745?style=flat-square&logo=react&logoColor=FF8102)
-![WebGL](https://img.shields.io/badge/WebGL-222745?style=flat-square&logo=webgl&logoColor=FF8102)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-050729?style=flat-square&logo=framer&logoColor=FDE047)
+![GSAP](https://img.shields.io/badge/GSAP-050729?style=flat-square&logo=greensock&logoColor=FDE047)
+![Three.js](https://img.shields.io/badge/Three.js-050729?style=flat-square&logo=threedotjs&logoColor=FDE047)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-050729?style=flat-square&logo=react&logoColor=FDE047)
+![WebGL](https://img.shields.io/badge/WebGL-050729?style=flat-square&logo=webgl&logoColor=FDE047)
 
 **Backend**
 
-![Node](https://img.shields.io/badge/Node-222745?style=flat-square&logo=nodedotjs&logoColor=FF8102)
-![Bun](https://img.shields.io/badge/Bun-222745?style=flat-square&logo=bun&logoColor=FF8102)
-![Deno](https://img.shields.io/badge/Deno-222745?style=flat-square&logo=deno&logoColor=FF8102)
-![Hono](https://img.shields.io/badge/Hono-222745?style=flat-square&logo=hono&logoColor=FF8102)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222745?style=flat-square&logo=postgresql&logoColor=FF8102)
-![Drizzle](https://img.shields.io/badge/Drizzle-222745?style=flat-square&logo=drizzle&logoColor=FF8102)
-![Supabase](https://img.shields.io/badge/Supabase-222745?style=flat-square&logo=supabase&logoColor=FF8102)
-![Neon](https://img.shields.io/badge/Neon-222745?style=flat-square&logo=neon&logoColor=FF8102)
-![Firebase](https://img.shields.io/badge/Firebase-222745?style=flat-square&logo=firebase&logoColor=FF8102)
+![Node](https://img.shields.io/badge/Node-050729?style=flat-square&logo=nodedotjs&logoColor=FDE047)
+![Bun](https://img.shields.io/badge/Bun-050729?style=flat-square&logo=bun&logoColor=FDE047)
+![Deno](https://img.shields.io/badge/Deno-050729?style=flat-square&logo=deno&logoColor=FDE047)
+![Hono](https://img.shields.io/badge/Hono-050729?style=flat-square&logo=hono&logoColor=FDE047)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050729?style=flat-square&logo=postgresql&logoColor=FDE047)
+![Drizzle](https://img.shields.io/badge/Drizzle-050729?style=flat-square&logo=drizzle&logoColor=FDE047)
+![Supabase](https://img.shields.io/badge/Supabase-050729?style=flat-square&logo=supabase&logoColor=FDE047)
+![Neon](https://img.shields.io/badge/Neon-050729?style=flat-square&logo=neon&logoColor=FDE047)
+![Firebase](https://img.shields.io/badge/Firebase-050729?style=flat-square&logo=firebase&logoColor=FDE047)
 
 **AI**
 
-![Mastra.ai](https://img.shields.io/badge/Mastra.ai-222745?style=flat-square&logoColor=FF8102)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-222745?style=flat-square&logo=vercel&logoColor=FF8102)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-222745?style=flat-square&logo=pydantic&logoColor=FF8102)
-![LangChain](https://img.shields.io/badge/LangChain-222745?style=flat-square&logo=langchain&logoColor=FF8102)
-![Langfuse](https://img.shields.io/badge/Langfuse-222745?style=flat-square&logoColor=FF8102)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-222745?style=flat-square&logoColor=FF8102)
-![MCP](https://img.shields.io/badge/MCP-222745?style=flat-square&logoColor=FF8102)
-![A2A](https://img.shields.io/badge/A2A-222745?style=flat-square&logoColor=FF8102)
-![Qdrant](https://img.shields.io/badge/Qdrant-222745?style=flat-square&logo=qdrant&logoColor=FF8102)
+![Mastra.ai](https://img.shields.io/badge/Mastra.ai-050729?style=flat-square&logoColor=FDE047)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-050729?style=flat-square&logo=vercel&logoColor=FDE047)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-050729?style=flat-square&logo=pydantic&logoColor=FDE047)
+![LangChain](https://img.shields.io/badge/LangChain-050729?style=flat-square&logo=langchain&logoColor=FDE047)
+![Langfuse](https://img.shields.io/badge/Langfuse-050729?style=flat-square&logoColor=FDE047)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-050729?style=flat-square&logoColor=FDE047)
+![MCP](https://img.shields.io/badge/MCP-050729?style=flat-square&logoColor=FDE047)
+![A2A](https://img.shields.io/badge/A2A-050729?style=flat-square&logoColor=FDE047)
+![Qdrant](https://img.shields.io/badge/Qdrant-050729?style=flat-square&logo=qdrant&logoColor=FDE047)
 
 **Ops**
 
-![Docker](https://img.shields.io/badge/Docker-222745?style=flat-square&logo=docker&logoColor=FF8102)
-![AWS](https://img.shields.io/badge/AWS-222745?style=flat-square&logo=amazonwebservices&logoColor=FF8102)
-![Vercel](https://img.shields.io/badge/Vercel-222745?style=flat-square&logo=vercel&logoColor=FF8102)
-![Trigger.dev](https://img.shields.io/badge/Trigger.dev-222745?style=flat-square&logo=trigger&logoColor=FF8102)
-![Git](https://img.shields.io/badge/Git-222745?style=flat-square&logo=git&logoColor=FF8102)
-![Figma](https://img.shields.io/badge/Figma-222745?style=flat-square&logo=figma&logoColor=FF8102)
+![Docker](https://img.shields.io/badge/Docker-050729?style=flat-square&logo=docker&logoColor=FDE047)
+![AWS](https://img.shields.io/badge/AWS-050729?style=flat-square&logo=amazonwebservices&logoColor=FDE047)
+![Vercel](https://img.shields.io/badge/Vercel-050729?style=flat-square&logo=vercel&logoColor=FDE047)
+![Trigger.dev](https://img.shields.io/badge/Trigger.dev-050729?style=flat-square&logo=trigger&logoColor=FDE047)
+![Git](https://img.shields.io/badge/Git-050729?style=flat-square&logo=git&logoColor=FDE047)
+![Figma](https://img.shields.io/badge/Figma-050729?style=flat-square&logo=figma&logoColor=FDE047)
 
 ---
 
@@ -134,21 +134,10 @@ const dominique = {
 ## Reach
 
 <p>
-  <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/Portfolio-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
-  <a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Hire_me-222745?style=for-the-badge&labelColor=222745" /></a>
-  <a href="https://x.com/domidexdesign"><img src="https://img.shields.io/badge/X-222745?style=for-the-badge&logo=x&logoColor=FF8102" /></a>
-  <a href="https://www.linkedin.com/in/domidex"><img src="https://img.shields.io/badge/LinkedIn-222745?style=for-the-badge&logo=linkedin&logoColor=FF8102" /></a>
+  <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/Portfolio-FDE047?style=for-the-badge&labelColor=050729&color=FDE047" /></a>
+  <a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Hire_me-050729?style=for-the-badge&labelColor=050729" /></a>
+  <a href="https://x.com/domidexdesign"><img src="https://img.shields.io/badge/X-050729?style=for-the-badge&logo=x&logoColor=FDE047" /></a>
+  <a href="https://www.linkedin.com/in/domidex"><img src="https://img.shields.io/badge/LinkedIn-050729?style=for-the-badge&logo=linkedin&logoColor=FDE047" /></a>
 </p>
 
----
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=domidex-dev&show_icons=true&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&icon_color=FF8102" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domidex-dev&layout=compact&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&langs_count=8" />
-
-<br/><br/>
-
-<sub>Built in Bangkok &nbsp;·&nbsp; <code>#222745</code> · <code>#FF8102</code> &nbsp;·&nbsp; DomiDex</sub>
-
-</div>
+<sub>Built in Bangkok &nbsp;·&nbsp; <code>#050729</code> · <code>#FDE047</code> &nbsp;·&nbsp; DomiDex</sub>
