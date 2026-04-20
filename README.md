@@ -68,13 +68,58 @@ const dominique = {
 
 ### ⚙️ &nbsp; Toolbelt
 
-```
-Craft        TypeScript · React · Next · Astro · Tailwind · shadcn/ui · Zod · Zustand · TanStack Query
-Motion       Framer Motion · GSAP · Three.js · React Three Fiber · WebGL
-Backend      Node · Bun · Deno · Hono · PostgreSQL · Drizzle · Supabase · Neon · Firebase
-AI           Mastra.ai · Vercel AI SDK · PydanticAI · LangChain · Langfuse · OpenRouter · MCP · A2A · Qdrant
-Ops          Docker · AWS · Vercel · Trigger.dev · Git · Figma
-```
+**Craft**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-222745?style=flat-square&logo=typescript&logoColor=FF8102)
+![React](https://img.shields.io/badge/React-222745?style=flat-square&logo=react&logoColor=FF8102)
+![Next.js](https://img.shields.io/badge/Next.js-222745?style=flat-square&logo=nextdotjs&logoColor=FF8102)
+![Astro](https://img.shields.io/badge/Astro-222745?style=flat-square&logo=astro&logoColor=FF8102)
+![Tailwind](https://img.shields.io/badge/Tailwind-222745?style=flat-square&logo=tailwindcss&logoColor=FF8102)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-222745?style=flat-square&logo=shadcnui&logoColor=FF8102)
+![Zod](https://img.shields.io/badge/Zod-222745?style=flat-square&logo=zod&logoColor=FF8102)
+![Zustand](https://img.shields.io/badge/Zustand-222745?style=flat-square&logoColor=FF8102)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-222745?style=flat-square&logo=reactquery&logoColor=FF8102)
+
+**Motion**
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-222745?style=flat-square&logo=framer&logoColor=FF8102)
+![GSAP](https://img.shields.io/badge/GSAP-222745?style=flat-square&logo=greensock&logoColor=FF8102)
+![Three.js](https://img.shields.io/badge/Three.js-222745?style=flat-square&logo=threedotjs&logoColor=FF8102)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-222745?style=flat-square&logo=react&logoColor=FF8102)
+![WebGL](https://img.shields.io/badge/WebGL-222745?style=flat-square&logo=webgl&logoColor=FF8102)
+
+**Backend**
+
+![Node](https://img.shields.io/badge/Node-222745?style=flat-square&logo=nodedotjs&logoColor=FF8102)
+![Bun](https://img.shields.io/badge/Bun-222745?style=flat-square&logo=bun&logoColor=FF8102)
+![Deno](https://img.shields.io/badge/Deno-222745?style=flat-square&logo=deno&logoColor=FF8102)
+![Hono](https://img.shields.io/badge/Hono-222745?style=flat-square&logo=hono&logoColor=FF8102)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222745?style=flat-square&logo=postgresql&logoColor=FF8102)
+![Drizzle](https://img.shields.io/badge/Drizzle-222745?style=flat-square&logo=drizzle&logoColor=FF8102)
+![Supabase](https://img.shields.io/badge/Supabase-222745?style=flat-square&logo=supabase&logoColor=FF8102)
+![Neon](https://img.shields.io/badge/Neon-222745?style=flat-square&logo=neon&logoColor=FF8102)
+![Firebase](https://img.shields.io/badge/Firebase-222745?style=flat-square&logo=firebase&logoColor=FF8102)
+
+**AI**
+
+![Mastra.ai](https://img.shields.io/badge/Mastra.ai-222745?style=flat-square&logoColor=FF8102)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-222745?style=flat-square&logo=vercel&logoColor=FF8102)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-222745?style=flat-square&logo=pydantic&logoColor=FF8102)
+![LangChain](https://img.shields.io/badge/LangChain-222745?style=flat-square&logo=langchain&logoColor=FF8102)
+![Langfuse](https://img.shields.io/badge/Langfuse-222745?style=flat-square&logoColor=FF8102)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-222745?style=flat-square&logoColor=FF8102)
+![MCP](https://img.shields.io/badge/MCP-222745?style=flat-square&logoColor=FF8102)
+![A2A](https://img.shields.io/badge/A2A-222745?style=flat-square&logoColor=FF8102)
+![Qdrant](https://img.shields.io/badge/Qdrant-222745?style=flat-square&logo=qdrant&logoColor=FF8102)
+
+**Ops**
+
+![Docker](https://img.shields.io/badge/Docker-222745?style=flat-square&logo=docker&logoColor=FF8102)
+![AWS](https://img.shields.io/badge/AWS-222745?style=flat-square&logo=amazonwebservices&logoColor=FF8102)
+![Vercel](https://img.shields.io/badge/Vercel-222745?style=flat-square&logo=vercel&logoColor=FF8102)
+![Trigger.dev](https://img.shields.io/badge/Trigger.dev-222745?style=flat-square&logo=trigger&logoColor=FF8102)
+![Git](https://img.shields.io/badge/Git-222745?style=flat-square&logo=git&logoColor=FF8102)
+![Figma](https://img.shields.io/badge/Figma-222745?style=flat-square&logo=figma&logoColor=FF8102)
 
 ---
 
