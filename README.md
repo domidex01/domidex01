@@ -1,6 +1,10 @@
-<div >
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FF8102&width=680&lines=Hey%2C+I'm+Dominique.;Full-stack+%26+AI+engineer+based+in+Bangkok.;I+design+%E2%80%94+then+I+ship+it.;Currently+building+autonomous+agents." alt="Dominique Degottex — full-stack & AI engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=900&color=FF8102&center=true&vCenter=true&width=760&lines=Dominique+Degottex;Full-stack+%26+AI+engineer.;A+product+designer+that+can+code.;Bangkok+%E2%86%92+anywhere+with+Wi-Fi." alt="typing" />
+<a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
+<img src="https://img.shields.io/badge/Bangkok_🇹🇭-222745?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" />
+
+---
 
 <br/>
 
