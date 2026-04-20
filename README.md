@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=900&color=FF8102&center=true&vCenter=true&width=760&lines=Dominique+Degottex;Full-stack+%26+AI+engineer.;A+product+designer+that+can+code.;Bangkok+%E2%86%92+anywhere+with+Wi-Fi." alt="typing" />
 
