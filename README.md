@@ -1,16 +1,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FF8102&width=680&lines=Hey%2C+I'm+Dominique.;Full-stack+%26+AI+engineer+based+in+Bangkok.;I+design+%E2%80%94+then+I+ship+it.;Currently+building+Tour+Kit+%26+Vigil." alt="Dominique Degottex — full-stack & AI engineer" />
 
 <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
-<img src="https://img.shields.io/badge/Bangkok_🇹🇭-222745?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" />
-
----
+<a href="https://maps.app.goo.gl/"><img src="https://img.shields.io/badge/Bangkok_🇹🇭-222745?style=for-the-badge" /></a>
+<a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" /></a>
 
 </div>
 
 ---
+Hey there 👋,
 
-> Crafting the seam between **interface** and **intelligence**. I build things that move, remember, and feel considered — from pixel-perfect landings to agentic backends.
+I build products and ship open source at the seam between **interface** and **intelligence** — design-forward React on the front, autonomous agents on the back. I care about things that move, remember, and feel considered, and I write about what I learn along the way.
+
+Everything I'm up to lives at **[domidex.dev](https://www.domidex.dev)**. Right now I'm shipping **[Tour Kit](https://usertourkit.com)** — an open-source headless React library for product tours — and **[Vigil](https://github.com/{{GITHUB_HANDLE}}/vigil)**, an always-on git monitoring agent with tiered memory. One makes onboarding feel effortless; the other makes your repo feel alive.
+
+If something I've made was useful to you, the best ways to say thanks: drop a ⭐ on the repo, follow along **[@{{X_HANDLE}}](https://x.com/{{X_HANDLE}})**, or [say hi](https://www.domidex.dev/contact) — I'd love to hear what you're building.
 
 ---
 
