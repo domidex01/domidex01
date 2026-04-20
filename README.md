@@ -18,15 +18,14 @@
 
 ### 🟠 &nbsp; Selected work
 
-**[Bonjour Milo](https://bonjourmilo.com)** &nbsp;·&nbsp; AI-native CRM with a 10-agent outbound pipeline. Three-loop self-learning (micro/meso/macro), MCP over SSE, OpenRouter-routed.
 
 **[Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
 
 **[Vigil](https://github.com/{{GITHUB_HANDLE}}/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
 
-**[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
+**[Dental Buddy](https://mydentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
 
-**[ccplus](https://github.com/{{GITHUB_HANDLE}}/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
+
 
 <sub>More at &nbsp;→&nbsp; **[domidex.dev/work](https://www.domidex.dev/work)**</sub>
 
