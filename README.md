@@ -1,30 +1,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FF8102&width=680&lines=Hey%2C+I'm+Dominique.;Full-stack+%26+AI+engineer+based+in+Bangkok.;I+design+%E2%80%94+then+I+ship+it.;Currently+building+Tour+Kit+%26+Vigil." alt="Dominique Degottex — full-stack & AI engineer" />
 
 <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/domidex.dev-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
-<a href="https://maps.app.goo.gl/"><img src="https://img.shields.io/badge/Bangkok_🇹🇭-222745?style=for-the-badge" /></a>
+<a href="https://maps.app.goo.gl/"><img src="https://img.shields.io/badge/Bangkok-222745?style=for-the-badge&logo=googlemaps&logoColor=FF8102" /></a>
 <a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Open_to_work-222745?style=for-the-badge&labelColor=222745" /></a>
 
-</div>
-
 ---
-Hey there 👋,
+
+<img src="https://img.shields.io/badge/-Hello-FF8102?style=flat-square&labelColor=222745" /> &nbsp; **Hey there,**
 
 I build products and ship open source at the seam between **interface** and **intelligence** — design-forward React on the front, autonomous agents on the back. I care about things that move, remember, and feel considered, and I write about what I learn along the way.
 
 Everything I'm up to lives at **[domidex.dev](https://www.domidex.dev)**. Right now I'm shipping **[Tour Kit](https://usertourkit.com)** — an open-source headless React library for product tours — and **[Vigil](https://github.com/domidex-dev/vigil)**, an always-on git monitoring agent with tiered memory. One makes onboarding feel effortless; the other makes your repo feel alive.
 
-If something I've made was useful to you, the best ways to say thanks: drop a ⭐ on the repo, follow along **[@domidexdesign](https://x.com/domidexdesign)**, or [say hi](https://www.domidex.dev/contact) — I'd love to hear what you're building.
+If something I've made was useful to you, the best ways to say thanks: drop a star on the repo, follow along **[@domidexdesign](https://x.com/domidexdesign)**, or [say hi](https://www.domidex.dev/contact) — I'd love to hear what you're building.
 
 ---
 
-### 👨‍💻 &nbsp; `whoami.ts`
+### <img src="https://skillicons.dev/icons?i=ts" height="22" align="center" /> &nbsp; `whoami.ts`
 
 ```typescript
 const dominique = {
   pronouns: "he" | "him",
   role: "Full-stack & AI engineer",
   tagline: "A product designer that can code.",
-  basedIn: "Bangkok 🇹🇭",
+  basedIn: "Bangkok",
 
   code: ["TypeScript", "Python", "JavaScript", "HTML", "CSS", "SQL"],
 
@@ -50,23 +49,23 @@ const dominique = {
 
 ---
 
-### 🟠 &nbsp; Selected work
+### <img src="https://img.shields.io/badge/-Work-FF8102?style=flat-square&labelColor=222745&logoColor=222745" /> &nbsp; Selected work
 
 **[Bonjour Milo](https://bonjourmilo.com)** &nbsp;·&nbsp; AI-native CRM with a 10-agent outbound pipeline. Three-loop self-learning (micro/meso/macro), MCP over SSE, OpenRouter-routed.
 
 **[Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
 
-**[Vigil](https://github.com/{{GITHUB_HANDLE}}/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
+**[Vigil](https://github.com/domidex-dev/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
 
 **[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
 
-**[ccplus](https://github.com/{{GITHUB_HANDLE}}/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
+**[ccplus](https://github.com/domidex-dev/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
 
 <sub>More at &nbsp;→&nbsp; **[domidex.dev/work](https://www.domidex.dev/work)**</sub>
 
 ---
 
-### ⚙️ &nbsp; Toolbelt
+### <img src="https://skillicons.dev/icons?i=vscode" height="22" align="center" /> &nbsp; Toolbelt
 
 **Craft**
 
@@ -123,7 +122,7 @@ const dominique = {
 
 ---
 
-### 🧭 &nbsp; How I work
+### <img src="https://img.shields.io/badge/-Principles-FF8102?style=flat-square&labelColor=222745" /> &nbsp; How I work
 
 **Design first, then code.** &nbsp;·&nbsp; If it doesn't feel good in Figma it won't feel good shipped.
 **Types are documentation.** &nbsp;·&nbsp; Zod at the boundary, TypeScript everywhere else.
@@ -132,24 +131,24 @@ const dominique = {
 
 ---
 
-### 📡 &nbsp; Reach
+### <img src="https://img.shields.io/badge/-Reach-FF8102?style=flat-square&labelColor=222745" /> &nbsp; Reach
 
 <p>
   <a href="https://www.domidex.dev"><img src="https://img.shields.io/badge/Portfolio-FF8102?style=for-the-badge&labelColor=222745&color=FF8102" /></a>
   <a href="https://www.domidex.dev/contact"><img src="https://img.shields.io/badge/Hire_me-222745?style=for-the-badge&labelColor=222745" /></a>
-  <a href="https://x.com/{{X_HANDLE}}"><img src="https://img.shields.io/badge/X-222745?style=for-the-badge&logo=x&logoColor=FF8102" /></a>
-  <a href="https://www.linkedin.com/in/{{LINKEDIN}}"><img src="https://img.shields.io/badge/LinkedIn-222745?style=for-the-badge&logo=linkedin&logoColor=FF8102" /></a>
+  <a href="https://x.com/domidexdesign"><img src="https://img.shields.io/badge/X-222745?style=for-the-badge&logo=x&logoColor=FF8102" /></a>
+  <a href="https://www.linkedin.com/in/domidex"><img src="https://img.shields.io/badge/LinkedIn-222745?style=for-the-badge&logo=linkedin&logoColor=FF8102" /></a>
 </p>
 
 ---
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_HANDLE}}&show_icons=true&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&icon_color=FF8102" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_HANDLE}}&layout=compact&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&langs_count=8" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=domidex-dev&show_icons=true&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&icon_color=FF8102" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domidex-dev&layout=compact&hide_border=true&bg_color=222745&title_color=FF8102&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
-<sub>⌘ &nbsp; Built in Bangkok &nbsp;·&nbsp; <code>#222745</code> · <code>#FF8102</code> &nbsp;·&nbsp; DomiDex</sub>
+<sub>Built in Bangkok &nbsp;·&nbsp; <code>#222745</code> · <code>#FF8102</code> &nbsp;·&nbsp; DomiDex</sub>
 
 </div>
