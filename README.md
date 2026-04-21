@@ -42,7 +42,7 @@ const dominique = {
     philosophy: "GOTCHA — Goals · Orchestration · Tools · Context · Hard prompts · Args",
   },
 
-  currently: ["Shipping Vigil v0.2 — an always-on git monitoring agent", ]
+  currently: "Shipping Vigil v0.2 — an always-on git monitoring agent", 
   openTo: ["collaborations", "AI engineering roles", "interesting bugs", "open source project"],
 } as const;
 ```
