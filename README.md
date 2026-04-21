@@ -10,7 +10,7 @@
 
 I build products and ship open source at the seam between **interface** and **intelligence** — design-forward React on the front, autonomous agents on the back. I care about things that move, remember, and feel considered, and I write about what I learn along the way.
 
-Everything I'm up to lives at **[domidex.dev](https://www.domidex.dev)**. Right now I'm shipping **[Tour Kit](https://usertourkit.com)** — an open-source headless React library for product tours — and **[Vigil](https://github.com/domidex-dev/vigil)**, an always-on git monitoring agent with tiered memory. One makes onboarding feel effortless; the other makes your repo feel alive.
+Everything I'm up to lives at **[domidex.dev](https://www.domidex.dev)**. Right now I'm shipping **[User Tour Kit](https://usertourkit.com)** — an open-source headless React library for product tours — and **[Vigil](https://github.com/domidex-dev/vigil)**, an always-on git monitoring agent with tiered memory. One makes onboarding feel effortless; the other makes your repo feel alive.
 
 If something I've made was useful to you, the best ways to say thanks: drop a star on the repo, follow along **[@domidexdesign](https://x.com/domidexdesign)**, or [say hi](https://www.domidex.dev/contact) — I'd love to hear what you're building.
 
@@ -38,12 +38,12 @@ const dominique = {
 
   building: {
     founder: "Voltai Group",
-    products: ["Bonjour Milo", "Tour Kit", "Vigil", "Dental Buddy"],
+    products: ["User Tour Kit", "Vigil", "My Dental Buddy"],
     philosophy: "GOTCHA — Goals · Orchestration · Tools · Context · Hard prompts · Args",
   },
 
-  currently: "Shipping Vigil v0.2 — an always-on git monitoring agent",
-  openTo: ["collaborations", "AI engineering roles", "interesting bugs"],
+  currently: ["Shipping Vigil v0.2 — an always-on git monitoring agent", ]
+  openTo: ["collaborations", "AI engineering roles", "interesting bugs", "open source project"],
 } as const;
 ```
 
@@ -51,9 +51,9 @@ const dominique = {
 
 ## Selected work
 
-**[Bonjour Milo](https://bonjourmilo.com)** &nbsp;·&nbsp; AI-native CRM with a 10-agent outbound pipeline. Three-loop self-learning (micro/meso/macro), MCP over SSE, OpenRouter-routed.
 
-**[Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
+
+**[User Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
 
 **[Vigil](https://github.com/domidex-dev/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
 
