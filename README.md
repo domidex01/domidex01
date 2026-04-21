@@ -122,10 +122,13 @@ const dominique = {
 
 ## How I work
 
-**Design first, then code.** &nbsp;·&nbsp; If it doesn't feel good in Figma it won't feel good shipped.
-**Types are documentation.** &nbsp;·&nbsp; Zod at the boundary, TypeScript everywhere else.
-**Agents should remember.** &nbsp;·&nbsp; Memory tiered, prompts cached, tokens compressed. Everything else is a leaky abstraction.
-**Motion with intent.** &nbsp;·&nbsp; GSAP for drama, Framer for feedback, CSS for the rest.
+**Design first, then code.**  ·  If it's wrong in Figma, it's wrong everywhere downstream — just more expensive.
+
+**Types are documentation.**  ·  Zod at the boundary, TypeScript in the core. If a comment is needed to explain a type, the type is wrong.
+
+**Agents should remember.**  ·  Tier the memory, cache the prompts, compress the tokens. An agent that forgets is a chatbot with extra steps.
+
+**Motion with intent.**  ·  GSAP for drama, Framer for feedback, CSS for the rest. If it isn't earning its frames, it's costing them.
 
 ---
 
