@@ -57,7 +57,7 @@ const dominique = {
 
 **[Vigil](https://github.com/domidex-dev/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
 
-**[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
+**[My Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
 
 <sub>More at &nbsp;→&nbsp; **[domidex.dev/work](https://www.domidex.dev/work)**</sub>
 
