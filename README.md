@@ -59,8 +59,6 @@ const dominique = {
 
 **[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
 
-**[ccplus](https://github.com/domidex-dev/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
-
 <sub>More at &nbsp;→&nbsp; **[domidex.dev/work](https://www.domidex.dev/work)**</sub>
 
 ---
@@ -142,16 +140,3 @@ const dominique = {
 
 <sub>Built in Bangkok &nbsp;·&nbsp; <code>#151B23</code> · <code>#FDE047</code> &nbsp;·&nbsp; DomiDex</sub>
 
----
-**[User Tour Kit](https://usertourkit.com)** &nbsp;·&nbsp; Headless React onboarding library. Open-source monorepo, MIT free tier, $99 Pro.
-![npm](https://img.shields.io/npm/dm/@tourkit/react?style=flat-square&logo=npm&label=downloads&color=FDE047&labelColor=151B23)
-![stars](https://img.shields.io/github/stars/domidex-dev/tour-kit?style=flat-square&logo=github&label=stars&color=FDE047&labelColor=151B23)
-
-**[Vigil](https://github.com/domidex-dev/vigil)** &nbsp;·&nbsp; Always-on git monitoring agent — KAIROS-inspired. Tick engine, tiered memory, A2A protocol. Bun + TS.
-![stars](https://img.shields.io/github/stars/domidex-dev/vigil?style=flat-square&logo=github&label=stars&color=FDE047&labelColor=151B23)
-
-**[Dental Buddy](https://dentalbuddy.app)** &nbsp;·&nbsp; Supervised brushing SaaS for kids. School-based, teacher-first UX.
-
-**[ccplus](https://github.com/domidex-dev/ccplus)** &nbsp;·&nbsp; Claude Code companion — persistent memory, hybrid vector + FTS5, MCP-exposed.
-![npm](https://img.shields.io/npm/dm/ccplus?style=flat-square&logo=npm&label=downloads&color=FDE047&labelColor=151B23)
-![stars](https://img.shields.io/github/stars/domidex-dev/ccplus?style=flat-square&logo=github&label=stars&color=FDE047&labelColor=151B23)
